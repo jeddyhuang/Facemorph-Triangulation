@@ -1,0 +1,15 @@
+//I am using Python 3.6 (32-bit is default)
+pip install numpy scipy matplotlib ipython jupyter pandas sympy nose
+//pip install scikit-learn
+//pip install numpy
+//pip install matplotlib
+//(Don't actually need the shapely library.) 
+//Download shapely wheel: https://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+//pip install C:\path\to\wheel
+//Looking into PyOpenGL and pygame to dispay 3D model
+//Extra Flags are reccommended from Pygame's website
+python -m pip install -U pygame --user
+pip install PyOpenGL
+pip install numba
+
+pip install numpy scipy matplotlib ipython jupyter pandas sympy nose pygame PyOpenGL numba
